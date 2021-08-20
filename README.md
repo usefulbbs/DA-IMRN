@@ -23,4 +23,6 @@ model_SV: Model used for Salinas Valley dataset.
 
 Data: Part of the source data.
 
-predata folder： Randomly generated data set used in this experiment. You can generate new predata through the code of dataset_generation.
+predata folder： Randomly generated data set used in this experiment. You can generate new predata using the code of dataset_generation.
+
+Any probelm, please feel free to contact me at liangzou@cumt.edu.cn
